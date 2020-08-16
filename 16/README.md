@@ -1,0 +1,2 @@
+[Pl]Słownik
+[Eng]Dictionary
