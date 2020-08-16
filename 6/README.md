@@ -1,0 +1,1 @@
+[PL]Program odczytujący z konsoli imię i sprawdzający czy imię jest męskie czy żeńskie bez wyjątków.[ENG].The program reads name from the console and checks whether name is male or female without exceptions.
